@@ -19,6 +19,6 @@
   # Contributing
   ​Contributors: 
   # Tests
-  To run tests, you need to run the following command: heroku
+  To run tests, you need to run the following command: https://notes-sulaimon.herokuapp.com/notes
   # Questions
   If you have any questions about the repo, open an issue or contact sfedai directly sfedai211@gmail.com.
