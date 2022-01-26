@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajcuddeback/note-taker.git"
+    "url": "git+https://github.com/sfedai/note-taker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajcuddeback/note-taker/issues"
+    "url": "https://github.com/sfedai/note-taker/issues"
   },
-  "homepage": "https://github.com/ajcuddeback/note-taker#readme",
+  "homepage": "https://github.com/sfedai/note-taker#readme",
   "dependencies": {
     "express": "^4.17.1",
     "uuid": "^8.3.2"
